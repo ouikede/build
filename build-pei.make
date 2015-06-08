@@ -540,5 +540,5 @@ libraries[openlayers][download][url] = "https://github.com/openlayers/openlayers
 
 libraries[highcharts][download][type] = "get"
 libraries[highcharts][destination] = libraries
-libraries[highcharts][download][url] = "http://code.highcharts.com/zips/Highcharts-4.1.5.zip"
+libraries[highcharts][download][url] = "https://raw.githubusercontent.com/ouikede/build/master/highcharts.zip"
 
