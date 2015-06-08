@@ -538,7 +538,7 @@ libraries[openlayers][download][type] = "get"
 libraries[openlayers][destination] = libraries
 libraries[openlayers][download][url] = "https://github.com/openlayers/openlayers/releases/download/release-2.11/OpenLayers-2.11.tar.gz"
 
-libraries[autopager][download][type] = "get"
-libraries[autopager][destination] = libraries
-libraries[autopager][download][url] = "http://code.highcharts.com/zips/Highcharts-4.1.5.zip"
+libraries[highcharts][download][type] = "get"
+libraries[highcharts][destination] = libraries
+libraries[highcharts][download][url] = "http://code.highcharts.com/zips/Highcharts-4.1.5.zip"
 
